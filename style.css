@@ -1,0 +1,86 @@
+.viagem_mainDiv {
+    border: 1px solid lightgrey;  
+}
+
+.viagem_mainDiv img {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+.viagem_mainDiv h5 , .viagem_mainDiv p{
+margin: 20px;
+}
+
+
+.filmesHead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filmesHead i {
+float: right;
+}
+
+.filmesText span {
+color: orange;
+}
+
+.livros
+{
+    margin-bottom: 20px;
+}
+.livros
+{
+    width: 100%;
+}
+
+#contato iframe
+{
+    width: 100%;
+    margin-right: 50%;
+}
+
+iframe {
+    margin-top: 2vh;
+    margin-right: 50%;
+    padding: 4px;
+    line-height: 1.42857143;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.space{
+    
+    margin-bottom: 5%;
+}
+
+#livro {
+   max-height: 80%; 
+}
+
+#last_night_in_soho img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#janela_secreta img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.livrosimg {
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
